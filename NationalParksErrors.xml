@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NationalPark>
+	<NationalPark>
+		<Name>Grand Canyon National Park</Name>
+		<Phone>928-638-7888</Phone>
+		<Phone>928 638-7779</Phone>
+		<Phone>928-638-7875</Phone>
+		<Phone>928 638-7884</Phone>
+		<Phone>800 959-9164</Phone>
+		<Address>
+			<Number>8</Number>
+			<Street>South Entrance Rd</Street>
+			<City>Grand Canyon</City>
+			<State>Arizona</State>
+			<Zip>86046</Zip>
+			<NearestAirport>Flagstaff Pulliam Airport</NearestAirport>
+		</Address>
+		<Rating>4.8</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Black Canyon of the Gunnison National Park</Name>
+		<Name>Mesa Verde National Park</Name>
+		<Phone>970-641-2337</Phone>
+		<Address>
+			<Number>9800</Number>
+			<Street>Highway 347
+			<City>Gunnison</City>
+			<State>Colorado</State>
+			<Zip>81230</Zip>
+			<NearestAirport>Montrose Regional Airport</NearestAirport>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Chiricahua National Park</Name>
+		<Phone>520 824-3560</Phone>
+		<Phone>877-444-6777</Phone>
+		<Address>
+			<Number>12856</Number>
+			<Street>E Rhyolite Creek Rd</Street>
+			<City>Willcox</City>
+			<State>Arizona</State>
+			<Zip>85643</Zip>
+			<NearestAirport>Cochise County-Willcox Airport</NearestAirport>
+		</Address>
+		<Rating>5.0</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Death Valley National Park</Name>
+		<Phone>760 786-3200</Phone>
+		<Address>
+			<Number>8</Number>
+			<Street>South Entrance Rd</Street>
+			<City>Death Valley</City>
+			<State>California</State>
+			<Zip>92328</Zip>
+			<NearestAirport>Las Vegas McCarran Airport</NearestAirport>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Congaree National Park</Name>
+		<Address>
+			<Number>100</Number>
+			<Street>National Park Road</Street>
+			<City>Hopkins</City>
+			<State>South Carolina</State>
+			<Zip>29061</Zip>
+			<NearestAirport>Columbia Metropolitan Airport</NearestAirport>
+		</Address>
+		<Rating>4.5</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Everglades National Park</Name>
+		<Phone>305 242-7700</Phone>
+		<Address>
+			<Number>40001</Number>
+			<Street>State Road 9336</Street>
+			<City>Homestead</City>
+			<State>Florida</State>
+			<Zip>33034-6733</Zip>
+			<NearestAirport>Miami International Airport</NearestAirport>
+		</Address>
+		<Rating>4.8</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Gateway Arch National Park</Name>
+		<Phone>314 655-1600</Phone>
+		<Phone>877-982-1410</Phone>
+		<Phone>1-800-735-2966</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>North 4th Street</Street>
+			<City>St. Louis</City>
+			<State>Missouri</State>
+			<Zip>63102</Zip>
+			<NearestAirport>St. Louis Downtown Airport</NearestAirport>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Great Basin National Park</Name>
+		<Phone>775-234-7331</Phone>
+		<Phone>877 444-6777</Phone>
+		<Phone>518 885-3639</Phone>
+		<Address>
+			<Number>100</Number>
+			<Street>Great Basin National Park</Street>
+			<City>Baker</City>
+			<State>Nevada</State>
+			<Zip>89311</Zip>
+			<NearestAirport>Cedar City Regional Airport</NearestAirport>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Great Sand Dunes National Park and Preserve</Name>
+		<Phone>719 378-6395</Phone>
+		<Phone>719 589-5807</Phone>
+		<Phone>1-877-444-6777</Phone>
+		<Phone>719-378-6341</Phone>
+		<Address>
+			<Number>11999</Number>
+			<Street>State Highway 150</Street>
+			<City>Mosca</City>
+			<State>Colorado</State>
+			<Zip>81146</Zip>
+			<NearestAirport>San Luis Valley Regional Airport</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Hawaiʻi Volcanoes National Park</Name>
+		<Phone>808 985-6011</Phone>
+		<Address>
+			<Number>52</Number>
+			<Street/>
+			<City>Hawaii National Park</City>
+			<State>Hawaii</State>
+			<Zip>96718</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
